@@ -1,0 +1,13 @@
+const String home_search_input_hint = "搜索大学、专业、资讯";
+const String follow_list_search_input_hint = "搜索你关注的求学号";
+const String search_no_data_hint = "没有找到相关内容";
+const String clear_the_search_history = "是否清空搜索记录？";
+const String please_input_phone = "请输入手机号码";
+const String please_input_code = "请输入验证码";
+const String have_read_agreement = "已阅读并同意以下协议:";
+const String register_privacy = "《求学宝隐私政策》";
+const String user_agreement = "《求学宝用户协议》";
+const String no_data = "抱歉 ，暂无数据";
+const String login_show = "登录后可查看";
+const String please_input_fraction = "请输入分数";
+const String please_input_nick_name = "请输入昵称";
